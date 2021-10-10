@@ -8,6 +8,7 @@ categories: main
 
 ### Contacts
 [![email](https://img.shields.io/badge/email-bumjin-00059f.svg?style=flat-square)](mailto:bumjinjung1@gmail.com)
+[![instagram](https://img.shields.io/badge/instagram-__jungbumjin-00059f.svg?style=flat-square)](https://www.instagram.com/_jungbumjin/)
 [![flickr](https://img.shields.io/badge/flickr-bumjin-00059f.svg?style=flat-square)](https://www.flickr.com/photos/bumjin/)
 
 ### Experience
