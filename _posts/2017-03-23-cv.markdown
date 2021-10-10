@@ -1,17 +1,19 @@
 ---
 layout: default
 title:  "Curriculum Vitae"
-date:   2017-12-12
+date:   2021-10-10
 categories: main
 ---
-
-[![Logo](https://ibb.co/0nq2y13)]()
+<img src="https://i.ibb.co/7SvCtBF/IMG-3516.jpg" width="30%"><br />
 
 ### Contacts
 [![email](https://img.shields.io/badge/email-bumjin-00059f.svg?style=flat-square)](mailto:bumjinjung1@gmail.com)
 [![flickr](https://img.shields.io/badge/flickr-bumjin-00059f.svg?style=flat-square)](https://www.flickr.com/photos/bumjin/)
 
 ### Experience
+- Web Marketer [![Polinet](https://img.shields.io/badge/Polinet-Website-lightgrey.svg?style=flat-square)](https://github.com/bamjin/ICTProject)  (*Feb 2017 – present*)
+  + Polinet Co., Ltd
+  + IT Manager & Web marketer
 - Job market analysis [![ICTProject](https://img.shields.io/badge/github-ICTProject-lightgrey.svg?style=flat-square)](https://github.com/bamjin/ICTProject)  (*Aug 2016 – Nov 2016*)
   + Australian Government Department of Immigration and Border Protection
 	+ Made model to predict the future job trend using R language
@@ -27,30 +29,31 @@ categories: main
   + Republic of Korea Army
 
 ### Projects
-  + Plato project [![plato](https://img.shields.io/badge/github-plato-lightgrey.svg?style=flat-square)](https://github.com/bamjin/plato)  (*Autumn 2017 - present*)
+  + Plato project [![plato](https://img.shields.io/badge/github-plato-lightgrey.svg?style=flat-square)](https://github.com/bamjin/plato)  (*Autumn 2017 - Winter 2017*)
     + Telegram messenger bot to notify that Yongsan IMAX movie reservation is available
       + Written in Python 3.5 with Telepot
       + Extract data from CGV IMAX website using BeautifulSoup4
       + Using sqlite3 as DBMS
-      + Anyone can use through Telegram messenger [![plato](https://img.shields.io/badge/telegram-plato-blue.svg?style=flat-square)](https://t.me/imaxnoti)
+
   + Euler project [![euler](https://img.shields.io/badge/github-euler-lightgrey.svg?style=flat-square)](https://github.com/bamjin/euler)  (*Spring 2017 - Summer 2017*)
     + Telegram messenger bot to translate the language of the many countries
       + Written in Python 3.4 with Telepot
       + Using ANN translate API which was made by Naver Labs
       + Extract 4 language which are Korean, English, Japanese, Chinese from the text that user sent
-      + Anyone can use through Telegram messenger [![euler](https://img.shields.io/badge/telegram-euler-blue.svg?style=flat-square)](https://telegram.me/euler_translate_bot)
+
   + Einstein project [![einstein](https://img.shields.io/badge/github-einstein-lightgrey.svg?style=flat-square)](https://github.com/bamjin/einstein)  (*Spring 2017 - Spring 2017*)
     + Telegram messenger bot to detect a range of feelings from the photo
       + Written in Python 3.4 with Opencv, matplotlib, numpy, and Telepot
       + Using Emotion API which was made by Microsoft Project Oxford
       + Extract 8 emotions from face on a photo that user sent
-      + Anyone can use through Telegram messenger [![einstein](https://img.shields.io/badge/telegram-einstein-blue.svg?style=flat-square)](https://telegram.me/einstein_emotion_bot)
+
   + Newton project [![newton](https://img.shields.io/badge/github-newton-lightgrey.svg?style=flat-square)](https://github.com/bamjin/newton)  (*Summer 2016 – present*)
     + Telegram messenger bot to control my room
       + Written in Python 3.4 with GrovePi, Telepot, Robobrowser, Picamera and Opencv
       + Raspberry Pi 2 is used to be a Telegram bot server
       + Notify status of strawberry that I grow
       + Have various functionality such as control a desk light, search the secondhand stuffs and download media, etc.
+
   + Surplus energy generation project  (*Spring 2015 – winter 2015*)
     + Generated electricity using a water turbine in the sink
       + Made a battery charger that is using water power pass the sink
