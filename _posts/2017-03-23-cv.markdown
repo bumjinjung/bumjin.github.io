@@ -5,7 +5,7 @@ date:   2017-12-12
 categories: main
 ---
 
-[![Logo](http://i68.tinypic.com/33bg946.png)]()
+[![Logo](https://photos.app.goo.gl/8QwYrThp1wrRscDe8)]()
 
 ### Contacts
 [![email](https://img.shields.io/badge/email-bumjin-00059f.svg?style=flat-square)](mailto:bumjinjung1@gmail.com)
