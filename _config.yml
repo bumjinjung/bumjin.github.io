@@ -1,0 +1,17 @@
+# Setup
+title:        Bumjin Jung
+tagline:      Curriculum Vitae
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:       
+  name:       Bumjin Jung
+  url:        http://bamjin.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
