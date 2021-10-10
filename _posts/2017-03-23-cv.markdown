@@ -11,7 +11,7 @@ categories: main
 [![flickr](https://img.shields.io/badge/flickr-bumjin-00059f.svg?style=flat-square)](https://www.flickr.com/photos/bumjin/)
 
 ### Experience
-- Web Marketer [![Polinet](https://img.shields.io/badge/Polinet-Website-lightgrey.svg?style=flat-square)](https://github.com/bamjin/ICTProject)  (*Feb 2017 – present*)
+- Web Marketer [![Polinet](https://img.shields.io/badge/Polinet-Website-lightgrey.svg?style=flat-square)](https://polinet.co.kr)  (*Feb 2017 – present*)
   + Polinet Co., Ltd
   + IT Manager & Web marketer
 - Job market analysis [![ICTProject](https://img.shields.io/badge/github-ICTProject-lightgrey.svg?style=flat-square)](https://github.com/bamjin/ICTProject)  (*Aug 2016 – Nov 2016*)
