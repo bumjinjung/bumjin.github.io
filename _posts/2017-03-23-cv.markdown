@@ -4,7 +4,7 @@ title:  "Curriculum Vitae"
 date:   2021-10-10
 categories: main
 ---
-<img src="https://i.ibb.co/vZ3y9py/logo5.png" width="40%"><br />
+<img src="https://i.ibb.co/HxNrsKD/logo-ver2.png" width="40%"><br />
 
 ### Contacts
 [![email](https://img.shields.io/badge/email-bumjin-00059f.svg?style=flat-square)](mailto:bumjinjung1@gmail.com)
